@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Long Truong</h1>
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact 
+🔭 I’m currently studying Computer Science at Ho Chi Minh University of Technology<br>👯 I’m a a passionate software developer <br>🤝 I enjoy working on a variety of projects and am always eager to learn new technologies
 
 
 # 💻 Tech Stack:
