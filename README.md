@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently studying Computer Science at Ho Chi Minh University of Technology.<br>👯 I’m a a passionate software developer.<br>🤝 I enjoy working on a variety of projects and am always eager to learn new technologies.
+🔭 I’m currently studying Computer Science at Ho Chi Minh University of Technology.<br>👯 I’m a passionate software developer.<br>🤝 I enjoy working on a variety of projects and am always eager to learn new technologies.
 
 # 📞 Get in Touch
 
